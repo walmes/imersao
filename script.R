@@ -7,3 +7,5 @@ plot(iris)
 
 plot(mtcars)
 
+# Faz mais um gráfico
+plot(cars)
